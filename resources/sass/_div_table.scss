@@ -1,0 +1,12 @@
+.divTable {
+  display: table;
+}
+
+.divTableRow {
+  display: table-row;
+}
+
+.divTableCell, .divTableHead {
+  display: table-cell;
+  border: 1px solid black;
+}
